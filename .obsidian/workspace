@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "e46edcc9750cd107",
+    "type": "split",
+    "children": [
+      {
+        "id": "667523009f54303e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "并发类/竞态条件与临界区.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2c282c0271b4cacf"
+      },
+      {
+        "id": "408a48b2fd89695a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "并发类/竞态条件与临界区.md",
+            "mode": "source"
+          }
+        },
+        "group": "2c282c0271b4cacf"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f37df5faf39461ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f3188c4b24c5b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a329a6fb40410bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2cf7b0d370bcf172",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf46f055d0fa272e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c20589a2d1c3eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1a4fc69c3bc4dfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "并发类/竞态条件与临界区.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "667523009f54303e",
+  "lastOpenFiles": [
+    "并发类/竞态条件与临界区.md",
+    "并发类/限流.md",
+    "技术.md",
+    "JVM的笔记.md"
+  ]
+}
